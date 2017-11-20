@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- These are the options displayed in the gender drop-down Spinner -->
+    <string-array name="array_sexo_options">
+        <item>Desconhecido</item>
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+</resources>
